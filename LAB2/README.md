@@ -3,13 +3,19 @@
 ## ▎Цели работы
 
 В данной лабораторной работе необходимо закрепить базовые знания языка JavaScript, полученные на лекциях. Необходимо решить 4 задачи. Все задачи нужно решать с использованием встроенных функий, большинство из которых можно найти здесь: 
+
 https://learn.javascript.ru/string
+
 https://learn.javascript.ru/array-methods
 
 Перед выполнением заданий крайне рекомендуется к прочтению:
+
 https://learn.javascript.ru/getting-started
+
 https://learn.javascript.ru/first-steps
+
 https://learn.javascript.ru/data-types
+
 https://learn.javascript.ru/object-basics
 
 ## ▎Задача 1
