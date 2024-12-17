@@ -1,12 +1,15 @@
-# Лабораторная работа №4
+# Лабораторная работа №3
 
 ## ▎Цели работы
 
 В данной лабораторной работе мы продолжаем изучать язык JavaScript. Задачи становятся сложнее. Необходимо решить 4 задачи. 
 
 Перед выполнением заданий крайне рекомендуется к прочтению:
+
 https://learn.javascript.ru/currying-partials
+
 https://learn.javascript.ru/call-apply-decorators
+
 https://learn.javascript.ru/bind
 
 ## ▎Задача 1
